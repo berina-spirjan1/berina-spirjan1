@@ -1,4 +1,4 @@
-# Hi there, I'm Berina Spirjan ![Pikachu waving](https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif)
+# Hi there, I'm Berina Spirjan <img src="https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="40" height="40" style="vertical-align: middle;" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1D9&width=500&lines=Full-Stack+Developer+%7C+Next.js+%7C+Node.js+%7C+Strapi.js;Building+amazing+projects+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96)
 

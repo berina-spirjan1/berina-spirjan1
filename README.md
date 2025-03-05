@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-🔹 **Full-Stack Developer** with experience in **React.js, Next.js, TypeScript, Strapi, PostgreSQL, Firebase, AWS, Node.js** <br>
+🔹 **Full-Stack Developer** with experience in **React.js, Next.js, Node.js, TypeScript, Strapi, PostgreSQL, Firebase, AWS** <br>
 🔹 **AI & Machine Learning Enthusiast** – working with **Python, TensorFlow, Alan.AI** <br>
 🔹 **Passionate about building scalable & maintainable applications** 🚀 <br>
-🔹 **Team Lead at Valens.dev**, mentoring developers and leading projects <br>
+🔹 **Mentoring developers and leading projects** <br>
 
 💡 *"Great software is built by great teams and clean code."* ✨
 

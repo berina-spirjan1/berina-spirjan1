@@ -48,5 +48,5 @@ pie
 
 ---
 
-### 👨‍💻 Programmer's Life
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+### 👩‍💻 Programmer's Life
+![Coding GIF](https://media1.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=6c09b952yheho6cq2iwqp5u6lhadp6iq34khi5iwxay9aspl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

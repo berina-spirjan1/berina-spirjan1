@@ -1,6 +1,6 @@
 # Hi there, I'm Berina Spirjan 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1D9&width=500&lines=Full-Stack+Developer+%7C+Next.js+%7C+TypeScript+%7C+Strapi;Building+amazing+projects+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1D9&width=500&lines=Full-Stack+Developer+%7C+Next.js+%7C+Node.js+%7C+Strapi.js;Building+amazing+projects+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96)
 
 ---
 
